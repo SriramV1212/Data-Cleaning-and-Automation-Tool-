@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 # Configure API key for Generative AI
-genai.configure(api_key='AIzaSyCV0BeXHo6Z13s6cP-yrmawF3pX5rhlVlk')
+genai.configure(api_key='API Key')
 
 
 def generate_and_save_code(user_input, csv_file_path):
