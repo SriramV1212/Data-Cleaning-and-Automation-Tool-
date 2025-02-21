@@ -43,17 +43,27 @@ This project leverages Google's Gemini API to create a data cleaning automation 
 - Large Language Models
 - Required Python packages (install via pip):
 
-### Install required packages
+### Installation
+
+1. Clone this repository
+   
+```bash
+git clone https://github.com/yourusername/data-cleaning-automation-tool.git
+```
+
+2. Install required packages
+   
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the Streamlit App
+3. Run the Streamlit App
+
 ```bash
 streamlit run sentient.py
 ```
 
-### Future Enhancements
+### Future Work
 
 #Advanced Features
 
