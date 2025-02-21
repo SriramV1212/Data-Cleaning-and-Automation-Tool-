@@ -34,4 +34,53 @@ This project leverages Google's Gemini API to create a data cleaning automation 
 
 ## 🚀 Getting Started
 
+## Setup Instructions
+
 ### Prerequisites
+- Python 3.7+
+- Pandas
+- Streamlit
+- Large Language Models
+- Required Python packages (install via pip):
+  ```
+  pip install -r requirements.txt
+  ```
+
+### Run the Streamlit App
+```bash
+streamlit run sentient.py
+```
+
+### Future Enhancements
+
+#Advanced Features
+
+Customizable Data Cleaning Pipelines: Allow users to save and reuse data cleaning workflows.
+
+Integration with Cloud Storage: Enable users to directly import datasets from cloud storage services like Google Drive or AWS S3.
+
+Error Handling and Suggestions: Improve the tool's ability to handle ambiguous or incomplete user input by providing suggestions and error messages.
+
+Support for Multiple Data Formats: Extend the tool to support other data formats such as Excel, JSON, and SQL databases.
+
+#calability and Performance
+
+Distributed Processing: Implement distributed data processing using Apache Spark for handling large datasets.
+
+Real-time Collaboration: Allow multiple users to collaborate on data cleaning tasks in real-time.
+
+Performance Optimization: Optimize the tool for faster code generation and execution, especially for large datasets.
+
+User Experience Enhancements
+Interactive Data Visualization: Integrate interactive data visualization tools like Plotly or Altair for better data exploration.
+
+User Feedback Loop: Implement a feedback mechanism to improve the tool's accuracy and usability based on user input.
+
+Tutorials and Documentation: Provide comprehensive tutorials and documentation to help users get started with the tool.
+
+## License
+MIT License
+
+## Contact
+For questions or collaboration opportunities, please reach out to [your email or contact information].
+
