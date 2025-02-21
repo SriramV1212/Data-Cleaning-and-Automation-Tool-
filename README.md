@@ -42,9 +42,11 @@ This project leverages Google's Gemini API to create a data cleaning automation 
 - Streamlit
 - Large Language Models
 - Required Python packages (install via pip):
-  ```
-  pip install -r requirements.txt
-  ```
+
+### Install required packages
+```bash
+pip install -r requirements.txt
+```
 
 ### Run the Streamlit App
 ```bash
@@ -82,5 +84,8 @@ Tutorials and Documentation: Provide comprehensive tutorials and documentation t
 MIT License
 
 ## Contact
-For questions or collaboration opportunities, please reach out to [your email or contact information].
+For questions or collaboration opportunities, please reach out to:
+
+Email: sriram.vivek@stonybrook.edu
+LinkedIn: https://www.linkedin.com/in/sriram-vivek-58a673269/
 
