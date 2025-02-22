@@ -63,6 +63,33 @@ pip install -r requirements.txt
 streamlit run sentient.py
 ```
 
+## 🔮 Future Work
+
+### #Advanced Features
+- **Real-time Streaming Architecture**:
+  - Implement Apache Kafka for high-throughput, fault-tolerant data streaming
+  - Build real-time analytics with Kafka Streams or Apache Flink
+
+- **Workflow Orchestration**:
+  - Migrate to Apache Airflow for robust pipeline scheduling and monitoring
+  - Implement DAGs for complex maintenance prediction workflows
+
+- **Big Data Processing**:
+  - Scale to distributed computing with Apache Spark for handling fleet-wide generator data
+  - Implement batch processing with Hadoop ecosystem for historical analysis
+
+- **Data Warehousing & Storage**:
+  - Implement Snowflake data warehouse for flexible scaling and analytics
+  - Utilize AWS S3 for cost-effective long-term storage of sensor data
+
+- **Cloud Infrastructure**:
+  - Migrate to AWS cloud infrastructure (EC2, Lambda, SageMaker)
+  - Implement containerization with Docker and Kubernetes for deployments
+
+- **Advanced Analytics**:
+  - Develop a data lake architecture for combining structured and unstructured maintenance data
+  - Implement dbt (data build tool) for analytics engineering and transformation
+
 ### Future Work
 
 #Advanced Features
@@ -94,7 +121,7 @@ Tutorials and Documentation: Provide comprehensive tutorials and documentation t
 MIT License
 
 ## Contact
-For questions or collaboration opportunities, please reach out to:
+Feel free to reach out if you have any questions or would like to collaborate!
 
 Email: sriram.vivek@stonybrook.edu
 LinkedIn: https://www.linkedin.com/in/sriram-vivek-58a673269/
